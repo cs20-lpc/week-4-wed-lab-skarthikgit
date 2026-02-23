@@ -31,7 +31,7 @@ jobs:
         command: "./driver"
         input: ''
         # expected-output: 3 30 19 54 1
-        expected-output: Original checks: 3 30 19 3 54 1
+        expected-output: 'Original checks: 3 30 19 3 54 1'
         comparison-method: contains
         timeout: 10
         max-score: 5
