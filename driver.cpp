@@ -28,7 +28,6 @@ int main()
     cout << found << "\n";
 
     // More test cases
-    /*
     cout << "Test 1 - print list: " << dlist;
 
     dlist.insert(0, 99);
@@ -61,6 +60,5 @@ int main()
     catch (const out_of_range&) {
         cout << "Test 8 - out_of_range check: passed\n";
     }
-    */
     return 0;
 }
